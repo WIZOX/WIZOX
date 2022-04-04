@@ -11,7 +11,7 @@ Hello Stalker !
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WIZOX&repo=github-visitors-badge&countColorcountColor&countColor=%3F3F3F)
 
 <details> 
-  <summary> 📃 My little GitHub Stats </summary>
+  <summary> 📃 GitHub Stats </summary>
 
   <br />
 
