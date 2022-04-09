@@ -6,7 +6,7 @@ Hello my name is WIZOX
 - 🧬 I’m currently learning Lua and Javascript...
 - 👯 I’m looking to collaborate on Project RolePlay ...
 - 👸 Fun fact : I'm not a Girl
-- 🤾🏻I like to rolepay
+- 🤾🏻I like play to rolepay
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WIZOX&repo=github-visitors-badge&countColorcountColor&countColor=%3F3F3F) 
  
