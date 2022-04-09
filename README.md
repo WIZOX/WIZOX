@@ -5,6 +5,7 @@
 - 🧬 I’m currently learning Lua and Javascript...
 - 👯 I’m looking to collaborate on Project RolePlay ...
 - 👸 Fun fact : I'm not a Girl
+- 🤾🏻I like to rolepay
 
 My Project on FiveM :
  ・SunySet (2020)
