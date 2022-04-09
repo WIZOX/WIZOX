@@ -8,6 +8,7 @@ Hello my name is WIZOX
 - 🤾🏻I like play to rolepay
 - 📫 Discord : WIZOX#9343
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WIZOX&theme=react&show_icons=true)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WIZOX&repo=github-visitors-badge&countColorcountColor&countColor=%3F3F3F) 
  
