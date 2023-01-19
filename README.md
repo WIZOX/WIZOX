@@ -1,6 +1,7 @@
 ### Hi there 👋
-Hello my name is WIZOX
+![Profile views](https://gpvc.arturio.dev/WIZOX)  
 
+Hello my name is WIZOX
 
 - 🔨 I like working with other people
 - 👯 I’m looking to collaborate on Project RolePlay ...
@@ -14,7 +15,12 @@ Hello my name is WIZOX
 <a href="https://discord.gg/G23wRqncbt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EBfXQ94ewu" height="30" width="40" /></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WIZOX&theme=react&show_icons=true) 
+
 ![wp10560170](https://user-images.githubusercontent.com/75537847/213203528-2ff3929b-6e4a-4e08-b61b-aeeebe3de58d.jpg)
+
+<br></br>
+
 
  
 
