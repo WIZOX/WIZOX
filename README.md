@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/WIZOX)  
 
-Hello my name is WIZOX
+Hello my name is **WIZOX**
 
 - 🔨 I like working with other people
 - 👯 I’m looking to collaborate on Project RolePlay ...
