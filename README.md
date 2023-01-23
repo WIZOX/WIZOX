@@ -3,7 +3,7 @@
 
 Hello my name is **WIZOX**
  
-Work actualy for Anarchy Project !
+Work currently for Anarchy Project !
 
 - 🔨 I like working with other people
 - 👯 I’m looking to collaborate on Project RolePlay ...
