@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/arturssmirnovs)  
 
 Hello my name is **WIZOX**
  
