@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi everyone 👋
 
 Hello my name is **WIZOX**
- 
 Work currently for Anarchy Project !
 
-- 🔨 I like working with other people
-- 👯 I’m looking to collaborate on Project RolePlay ...
-- 👸 Fun fact : I'm not a Girl
-- 🤾🏻I like play to rolepay
-- 📫 Discord : WIZOX#9343
+- I like working with other people
+- I’m looking to collaborate on Project RolePlay ...
+- Fun fact : I'm not a Girl
+- I like play to rolepay
+- Discord : WIZOX#9343
 
 ![image](https://user-images.githubusercontent.com/75537847/214134246-7ddb5ec6-734f-469c-ac5f-ecabe2fa8ea1.png)
 
@@ -22,8 +21,6 @@ Work currently for Anarchy Project !
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WIZOX&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WIZOX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </p>
-
-![wp10560170](https://user-images.githubusercontent.com/75537847/213203528-2ff3929b-6e4a-4e08-b61b-aeeebe3de58d.jpg)
 
 
  
