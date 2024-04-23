@@ -3,10 +3,6 @@
 Hello my name is **WIZOX**
 Work currently for Anarchy Project !
 
-- I like working with other people
-- I’m looking to collaborate on Project RolePlay ...
-- Fun fact : I'm not a Girl
-- I like play to rolepay
 - Discord : WIZOX#9343
 
 ![image](https://user-images.githubusercontent.com/75537847/214134246-7ddb5ec6-734f-469c-ac5f-ecabe2fa8ea1.png)
