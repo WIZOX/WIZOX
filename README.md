@@ -9,4 +9,4 @@ Je conçois des interfaces modernes et épurées, et je développe des scripts L
 * **UI/UX** — Prototypage, Figma → HTML/CSS
 * **Lua** — Scripts FiveM, optimisation, events
 * **RageUI / NativeUI** 
-* **Responsive** — Mobile-first, performance
+* **Responsive** Mobile-first, performance
